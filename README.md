@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SomiaRashwan/INFO2300_Assignment_no_3/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Node.js App with Visual Studio Code. To build this project, install Visual Studio Code and use JS version es6 to build the project. This app is a chatbot. It is a general knlowledge quiz with 20 questions. So, it has more than 20 states. It begains with a welcome message asking the user to enter his name and then begin with the first question. When the user enters an answer, it moves to another state displaying a message telling the user if his answer is correct or not. To be able to give the user an option to restart the quiz, a constructor of quiz class is created with done property. If the user choose not to restart the quiz, done property will be true and the object will be destroyed.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SomiaRashwan/INFO2300_Assignment_no_3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
