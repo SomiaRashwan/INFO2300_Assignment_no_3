@@ -1,5 +1,22 @@
+# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+
+I got the user interface for the web from a student of mine, Pat Wilken.
+
+A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+
+A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
+
+Marking
+-----
+
+|Element|Out Of|
+|---|---|
+|get a game or choose your own adventure in es6| 50|
+|multiplayer - each person plays their own game against the bot.| 10|
+|count case and if statements|2/3 each up to 20 points|
+|spelling and grammar|10|
+|on time|10|
 
 
-This is Node.js App with Visual Studio Code. To build this project, install Visual Studio Code and use JS version es6 to build the project. This app is a chatbot. It is a general knlowledge quiz with 20 questions. So, it has more than 20 states. It begains with a welcome message asking the user to enter his name and then begin with the first question. When the user enters an answer, it moves to another state displaying a message telling the user if his answer is correct or not. To be able to give the user an option to restart the quiz, a constructor of quiz class is created with done property. If the user choose not to restart the quiz, done property will be true and the object will be destroyed.
 
 
